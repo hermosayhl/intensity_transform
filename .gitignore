@@ -1,0 +1,7 @@
+example/__pycache__
+intensitytransform.egg-info
+dist
+build
+*.pyc
+*.pyd
+*.egg
